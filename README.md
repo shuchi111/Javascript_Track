@@ -1,1 +1,1 @@
-# MERN-journey
+# JavaScript track
